@@ -1,0 +1,2 @@
+bao:
+	g++ bao.cpp
